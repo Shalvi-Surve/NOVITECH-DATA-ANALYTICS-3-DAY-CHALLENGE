@@ -1,7 +1,7 @@
 # **Movie Dataset Cleanup - Novitech Data Analysis Internship (3 Day Challenge)**
 
 ## **Project Overview**
-This repository contains the solution for the **Day 3 Data Cleanup Challenge** from the **Novitech Data Analysis Internship**. The script, **`clean_movies.py`**, cleans the **`movies.csv`** dataset by handling missing values, removing duplicates, and standardizing formats. It outputs cleaned files: **`movies_cleaned.csv`** and **`movies_cleaned.xlsx`**.
+This repository contains the solution for the **3 Day Challenge** from the **Novitech R&D Private Limited**, that followed shortly after the completion of the **30 Day Data Analytics Masterclass**. The script, **`clean_movies.py`**, cleans the **`movies.csv`** dataset by handling missing values, removing duplicates, and standardizing formats. It outputs cleaned files: **`movies_cleaned.csv`** and **`movies_cleaned.xlsx`**.
 
 ## **Key Features**
 - **Data Cleaning**: Resolves missing values, eliminates duplicates, and standardizes data types.
